@@ -1,0 +1,24 @@
+[
+  "opgaveEt",{
+    "orderName": "Simon",
+    "orderId": 232021,
+    "price": 199,
+    "drinks": ["blueberry", "raspberry", "strawberry"],
+    "extras": ["lettuce"]
+  }, {
+  "orderName": "Mikkel",
+  "orderId": 232022,
+  "price": 89,
+  "drinks": ["coke", "fanta"],
+  "extras": ["cheese"]
+}, "opgaveTo",
+  {
+    "name": "Peter",
+    "age": 2
+  },
+  {
+    "name": "hans",
+    "age": 3
+  }
+]
+
